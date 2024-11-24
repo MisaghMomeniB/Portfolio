@@ -1,3 +1,5 @@
+![Screenshot from 2024-11-24 13-05-15](https://github.com/user-attachments/assets/8aa6644d-769c-4b78-8f19-ee67f2fc0af4)
+
 ### 1. HTML Code (`index.html`)
 
 This code defines the structure of the webpage, including the header, sections, and footer.
